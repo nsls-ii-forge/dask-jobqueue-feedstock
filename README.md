@@ -5,9 +5,13 @@ Home: https://github.com/dask/dask-jobqueue
 
 Package license: BSD 3-Clause
 
-Feedstock license: BSD-3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/nsls-ii-forge/dask-jobqueue-feedstock/blob/master/LICENSE.txt)
 
 Summary: Easy deployment of Dask Distributed on job queuing systems like PBS, Slurm, LSF and SGE.
+
+Development: https://github.com/dask/dask-jobqueue
+
+Documentation: https://jobqueue.dask.org
 
 Easy deployment of Dask Distributed on job queuing systems such as PBS,
 Slurm, LSF or SGE.
